@@ -5,9 +5,8 @@
 
 
 ### NOMBRES:
-
-Franklin Pachar Figueroa
-Brian Andrés López Castro
+1. Franklin Pachar Figueroa
+2. Brian Andrés López Castro
 
 ### Actividades
 1. Usar MlFlow en el notebook
