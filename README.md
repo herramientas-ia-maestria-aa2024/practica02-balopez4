@@ -3,6 +3,12 @@
 
 * Proyecto https://www.kaggle.com/code/danofer/predicting-protein-classification/notebook
 
+
+### NOMBRES:
+
+Franklin Pachar Figueroa
+Brian Andrés López Castro
+
 ### Actividades
 1. Usar MlFlow en el notebook
 2. Gestionar el código de tal manera que se graben los experimentos en MlFlow
